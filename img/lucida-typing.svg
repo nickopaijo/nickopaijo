@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1020" height="78" viewBox="0 0 1020 78" role="img" aria-label="Rotating terminal commands: whoami, security by design, git commit, sudo">
+<defs>
+<style>
+text {font-family: 'Lucida Console', 'Consolas', 'DejaVu Sans Mono', monospace;}
+.line0 { animation: line0 12s linear infinite; opacity:1; }@keyframes line0 {0%,100%{opacity:1;} 0%{opacity:1} 20%{opacity:1} 25%{opacity:0} }.line1 { animation: line1 12s linear infinite; opacity:0; }@keyframes line1 {0%,100%{opacity:0;} 25%{opacity:1} 45%{opacity:1} 50%{opacity:0} }.line2 { animation: line2 12s linear infinite; opacity:0; }@keyframes line2 {0%,100%{opacity:0;} 50%{opacity:1} 70%{opacity:1} 75%{opacity:0} }.line3 { animation: line3 12s linear infinite; opacity:0; }@keyframes line3 {0%,100%{opacity:0;} 75%{opacity:1} 95%{opacity:1} 100%{opacity:0} }
+.blink {animation:blink 1s steps(2,end) infinite;}
+@keyframes blink {50%{opacity:0;}}
+@media (prefers-reduced-motion:reduce) {.line0{animation:none;opacity:1}.line1,.line2,.line3{animation:none;opacity:0}.blink{animation:none}}
+</style>
+</defs>
+<rect x="2" y="4" width="1016" height="70" rx="7" fill="#070E16" stroke="#345F4B"/>
+<path d="M25 20v37" stroke="#4DFFAA" stroke-width="2"/>
+<text x="42" y="29" fill="#688777" font-size="11">BASH :: AUTORUN</text>
+<text class="line0" x="44" y="54" fill="#4DFFAA" font-size="19">$ whoami &gt;&gt; nickopaijo</text>
+<text class="line1" x="44" y="54" fill="#4DFFAA" font-size="19">$ cat mindset.txt &gt;&gt; security by design</text>
+<text class="line2" x="44" y="54" fill="#4DFFAA" font-size="19">$ git commit -m "build. break. fix. repeat."</text>
+<text class="line3" x="44" y="54" fill="#4DFFAA" font-size="19">$ sudo make the impossible work</text>
+<rect class="blink" x="949" y="37" width="12" height="23" fill="#4DFFAA" opacity=".7"/>
+</svg>
