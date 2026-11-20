@@ -1,5 +1,3 @@
-# Nicko.
-
 **I care about what happens after the demo.**
 
 Software engineer. Founder of [VYNTRIX](https://github.com/VYNTRIX-SOFTWARE).
