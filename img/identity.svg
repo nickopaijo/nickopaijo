@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="356" viewBox="0 0 1200 356" role="img" aria-labelledby="title description">
+  <title id="title">Nicko — Software Engineer</title>
+  <desc id="description">A quiet, editorial identity banner: Nicko, engineering for the real world.</desc>
+  <rect width="1200" height="356" rx="12" fill="#101319"/>
+  <rect x="18.5" y="18.5" width="1163" height="319" rx="2" fill="none" stroke="#343941" stroke-width="1"/>
+  <path d="M77 105.5H1123" stroke="#343941" stroke-width="1"/>
+  <path d="M77 285.5H1123" stroke="#343941" stroke-width="1"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" fill="#A4A9B4">
+    <text x="79" y="78" font-size="13" letter-spacing="3.3">SOFTWARE ENGINEER</text>
+    <text x="1119" y="78" font-size="13" text-anchor="end" letter-spacing="2.7">FOUNDER · VYNTRIX</text>
+    <text x="79" y="317" font-size="12" letter-spacing="2.7">PRODUCT / SYSTEMS / SECURITY</text>
+    <text x="1120" y="317" font-size="12" text-anchor="end" letter-spacing="1.7">BUILD WITH INTENT.</text>
+  </g>
+  <text x="73" y="223" font-family="Georgia, 'Times New Roman', serif" font-size="115" letter-spacing="-5.5" fill="#F1F0EC">Nicko<tspan fill="#9B8CF6">.</tspan></text>
+  <text x="80" y="265" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="19" fill="#B6BAC4" letter-spacing=".3">Engineering for the real world.</text>
+  <g transform="translate(971 184)" fill="none" stroke-linecap="square">
+    <circle r="94" stroke="#323844" stroke-width="1"/>
+    <circle r="70" stroke="#232933" stroke-width="1"/>
+    <path d="M-39 52V-52L39 52V-52" stroke="#ADA2F6" stroke-width="4.5" stroke-linejoin="miter"/>
+    <path d="M-58 -70H-37M37 70H58" stroke="#6E667F" stroke-width="1.5"/>
+    <circle cx="76" cy="-53" r="4.5" fill="#A599F7" stroke="none"/>
+  </g>
+</svg>
