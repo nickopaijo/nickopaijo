@@ -1,5 +1,3 @@
-## Software that holds up.
-
 Software engineer working across applications, backend systems, and infrastructure.
 
 I care about correctness, security, and keeping things simple. Founder of [VYNTRIX](https://github.com/VYNTRIX-SOFTWARE).
