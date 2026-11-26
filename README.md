@@ -1,19 +1,22 @@
-**I care about what happens after the demo.**
+## Software that holds up.
 
-Software engineer. Founder of [VYNTRIX](https://github.com/VYNTRIX-SOFTWARE).
+Software engineer working across applications, backend systems, and infrastructure.
 
-I build software for real operations — where clarity, security, and reliability matter more than the spectacle of a launch. My work spans product engineering, backend systems, and the decisions that keep software dependable over time.
+I care about correctness, security, and keeping things simple.
+
+Founder of [VYNTRIX](https://github.com/VYNTRIX-SOFTWARE).
 
 <br>
 
-### Selected work
+<sub><b>TOOLKIT</b></sub>
 
-**[Averact](https://github.com/VYNTRIX-SOFTWARE/Averact)**  
-Action contracts for AI-initiated operations.
-
-**[NusaRiksa](https://github.com/VYNTRIX-SOFTWARE/Nusariksa)**  
-Open-source IT governance and security workflows for Indonesian rural banks.
-
----
-
-<sub>Thoughtful systems. Quiet confidence.</sub>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30" height="30" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="30" height="30" alt="Kotlin" title="Kotlin" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="30" height="30" alt="Vue.js" title="Vue.js" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30" height="30" alt="Node.js" title="Node.js" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30" height="30" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="30" height="30" alt="Redis" title="Redis" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30" height="30" alt="Docker" title="Docker" />&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="30" height="30" alt="Linux" title="Linux" />
+</p>
